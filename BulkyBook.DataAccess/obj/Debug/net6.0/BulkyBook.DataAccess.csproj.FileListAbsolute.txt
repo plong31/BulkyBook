@@ -1,0 +1,5 @@
+D:\TamNM10\EF\Code\BulkyBookWeb\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+D:\TamNM10\EF\Code\BulkyBookWeb\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\TamNM10\EF\Code\BulkyBookWeb\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+D:\TamNM10\EF\Code\BulkyBookWeb\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfo.cs
+D:\TamNM10\EF\Code\BulkyBookWeb\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
